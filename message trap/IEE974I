@@ -1,6 +1,11 @@
+*********1*********2*********3*********4*********5*********6*********7*********8
+*This message trap used to trap following muti-line message.
+*If there is "DUMP REQUIRED", then create an alert
 *IEE974I 14.42.03 SMF DATA SETS 955                                   
 *          NAME                VOLSER SIZE(BLKS) %FULL  STATUS        
 *        P-SYS1.MAN1.NOVA      NOVA11      4980     0  ALTERNATE      
 *        S-SYS1.MAN2.NOVA      NOVA12      4980     5  DUMP REQUIRED  
 *        S-SYS1.MAN3.NOVA      NOVA13      4980    26  ACTIVE         
 *        S-SYS1.MAN4.NOVA      NOVA14     19500     0  ALTERNATE      
+*******************************************************************************
+*
